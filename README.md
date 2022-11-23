@@ -2,8 +2,7 @@
 Hi there 👋
 
 - My name is Carlos
-- I'm 20 years old
-- I was born in Brazil
-- I like videogames
-- Programming is complicated af but is fun
-- I have lots of ideas for projects i'd like to do
+- 20yo
+- Studying Analysis and Systems Development
+- Part-time intern
+- Will use my knowledge to "give life" to many ideas
