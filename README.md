@@ -2,7 +2,9 @@
 Hi there 👋
 
 - My name is Carlos
-- 20yo
+- I'm 21yo
 - Studying Analysis and Systems Development
-- Part-time intern
-- Will use my knowledge to "give life" to many ideas
+- Currently a part-time intern
+- Want to use my knowledge to give life to many ideas
+
+[![TrueCebola's GitHub stats](https://github-readme-stats.vercel.app/api?TrueCebola=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
