@@ -7,4 +7,4 @@ Hi there 👋
 - Currently a part-time intern
 - Want to use my knowledge to give life to many ideas
 
-[![TrueCebola's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrueCebola)](https://github.com/anuraghazra/github-readme-stats)
+[![TrueCebola's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrueCebola&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
