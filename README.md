@@ -8,5 +8,4 @@ Hi there 👋
 - Want to use my knowledge to give life to many ideas
 
 
-[![TrueCebola's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrueCebola&count_private=true&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrueCebola&langs_count=8&layout=compact&count_private=true&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![TrueCebola's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrueCebola&count_private=true&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrueCebola&langs_count=8&layout=compact&count_private=true&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
