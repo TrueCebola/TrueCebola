@@ -11,4 +11,4 @@ Hi there 👋
 
 [![TrueCebola's GitHub stats](https://github-readme-stats-n3ya-git-main-truecebola.vercel.app/api?username=TrueCebola&count_private=true&theme=github_dark&show_icons=true&hide_border=true)](https://github.com/TrueCebola/git-private-stats)
 [![Top Langs](https://github-readme-stats-n3ya-git-main-truecebola.vercel.app/api/top-langs/?username=TrueCebola&langs_count=8&layout=compact&theme=github_dark&show_icons=true&hide_border=true&hide=shell,hack,c,py)](https://github.com/TrueCebola/git-private-stats)
-![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
+![Profile views](https://gpvc.arturio.dev/TrueCebola)
