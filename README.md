@@ -4,11 +4,11 @@ Hi there 👋
 - My name is Carlos
 - I'm 21yo
 - Studying Analysis and Systems Development
-- Currently a part-time intern
+- Currently working part-time
 - Want to use my knowledge to give life to many ideas
 
 <br/><br/><br/><br/><br/>
 
-[![TrueCebola's GitHub stats](https://github-readme-stats-n3ya-git-main-truecebola.vercel.app/api?username=TrueCebola&count_private=true&theme=github_dark&show_icons=true&hide_border=true)](https://github.com/TrueCebola/git-private-stats)
+[![TrueCebola's GitHub stats](https://github-readme-stats-n3ya-git-main-truecebola.vercel.app/api?username=TrueCebola&count_private=true&theme=github_dark&show_icons=true&hide_border=true)](https://github.com/TrueCebola/git-private-stats) 
 [![Top Langs](https://github-readme-stats-n3ya-git-main-truecebola.vercel.app/api/top-langs/?username=TrueCebola&langs_count=8&layout=compact&theme=github_dark&show_icons=true&hide_border=true&hide=shell,hack,c,py)](https://github.com/TrueCebola/git-private-stats)
-![Profile views](https://gpvc.arturio.dev/TrueCebola)
+
