@@ -1,4 +1,4 @@
-<img align="right" src="https://www.meme-arsenal.com/memes/3f617652c8b3fdb21bcefc67020cb45c.jpg">
+<img align="right" width="300px" src="https://i.imgflip.com/443119.png?a468504">
 Hi there 👋
 
 - My name is Carlos
